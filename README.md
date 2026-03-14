@@ -21,3 +21,31 @@ The main goal of this project is to demonstrate the basic functionality of an on
 * JavaScript
 
 This project was created for learning purposes and to understand how a basic e-commerce style website works using PHP and MySQL.
+
+## How to Run the Project
+
+To run this project on your system, follow these steps:
+
+1. Download or clone this repository from GitHub.
+
+2. Install **XAMPP** on your computer.
+
+3. Move the project folder to the `htdocs` directory inside the XAMPP folder.
+
+Example:
+C:\xampp\htdocs\icecream-website
+
+4. Start **Apache** and **MySQL** from the XAMPP control panel.
+
+5. Open **phpMyAdmin** in your browser:
+   http://localhost/phpmyadmin
+
+6. Create a new database (for example: `icecream_db`).
+
+7. Import the SQL file provided in the project (database file).
+
+8. Open your browser and go to:
+   http://localhost/icecream-website
+
+Now the website will run on your local server.
+
